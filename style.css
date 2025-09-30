@@ -414,8 +414,8 @@ cubic-bezier(0.4, 0, 0.2, 1);
     height: auto;
   overflow: hidden;
 }
-.box2:hover{
-  
+.box2 p{
+  text-align:center;
 }
 .box2.show{
   opacity: 0;
@@ -1153,3 +1153,4 @@ cubic-bezier(0.4, 0, 0.2, 1);
         padding: 1rem;
     }
 }
+
